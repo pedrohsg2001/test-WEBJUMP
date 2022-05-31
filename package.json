@@ -1,0 +1,15 @@
+{
+  "name": "teste_webjump",
+  "version": "1.0.0",
+  "description": "Software Test Analyst Challenge at WEBJUMP",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Pedrohg2001",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.7.0",
+    "cypress-iframe": "^1.0.1"
+  }
+}
